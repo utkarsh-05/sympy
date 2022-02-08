@@ -16,7 +16,6 @@ multi_line_output = 4
 default_section = THIRDPARTY
 skip = .eggs
 
-# RST files (used by sphinx)
 [*.rst]
 indent_style = space
 indent_size = 3
